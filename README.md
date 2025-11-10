@@ -3,10 +3,10 @@
  This project performs a comprehensive sales analysis on an e-commerce dataset to drive actionable business insights. It utilizes Python for data manipulation and preparation with a focus on uncovering key trends,customer behavior patterns and top performing products to inform strategic decision-making.
 
 # Key Features & Analysis:
-* **->** Sales and trend analysis
-* **->** Customer Segmentation
-* **->** Product Performance
-* **->** Interactive Visualization
+* Sales and trend analysis
+* Customer Segmentation
+* Product Performance
+* Interactive Visualization
 
 # Tech Stacks:
 * **python:** The core programming language.
