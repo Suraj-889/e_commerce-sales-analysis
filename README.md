@@ -15,7 +15,7 @@
 * **jupyter Notebook:** Environment used for development and presentation of analysis.
 
 # To run this analysis locally follow these steps:
-* **Clone therepository:** https://github.com/Suraj-889/Ecommerce-sales-analysis
+* **Clone the repository:** https://github.com/Suraj-889/Ecommerce-sales-analysis
 * **Install the required libraries:** pip install pandas plotly jupyter
 * **Run the analysis:** open the primary analysis notebook(e.g. file.ipynb) in Jupyter and execute the cells.
 
